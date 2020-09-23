@@ -1,6 +1,6 @@
 table{
     margin-top: 5%;
-    margin-left: 10%;
+    margin-left: 165px;
 }
 table h1{
     text-align: left;
@@ -10,7 +10,7 @@ table h1{
 table p{
     text-align: start;
     font-size: 0.75rem;
-    margin-top: -60%;
+    margin-top: -50%;
     margin-bottom: 15%;
     font-family: "Spartan";
 }
@@ -165,16 +165,17 @@ table p{
 /*rotation*/
 .card{
     position: absolute;
-    left: 150px;
+    left: 175px;
     margin-top: -60px;
 }
 .card2{
     position: relative;
     top: -45px;
-    left: 485px;
+    left: 525px;
+    /*535 885*/
 }
 .card3{
-    position: absolute;
-    top: 365px;
-    left: 835px;
+    position: relative;
+    top: -195px;
+    left: 885px;
 }
